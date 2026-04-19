@@ -20,8 +20,10 @@ This project demonstrates a simple LED circuit using a resistor and a battery. I
 
 ## 🧮 Calculations
 
+![Circuit Diagram](calculations.png)
 Formula for resistor:
 R = (Vsource - Vf) / If
+P = I^2 * R = V*I
 
 Vsource = 5V (power supply)
 Vf = 2.2V (voltage rate of the led)
